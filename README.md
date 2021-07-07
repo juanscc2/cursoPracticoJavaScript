@@ -18,3 +18,8 @@
 -Segundo paso: implementar estas formulas en JavaScript
 -Tercer paso:  crear funciones 
 -Cuarto paso:   integrar JavaScript con html
+## Taller #4 Analisis de salarios
+-Primer paso: definir las formulas
+-Segundo paso: implementar estas formulas en JavaScript
+-Tercer paso:  crear funciones 
+-Cuarto paso:   integrar JavaScript con html
